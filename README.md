@@ -122,4 +122,3 @@ SAP-P2P-Analytics-Pipeline/
 
 ---
 
-*SAP Data Analytics Program · ExcelR & KIIT University · B6 Batch · Capstone Project 2026*
